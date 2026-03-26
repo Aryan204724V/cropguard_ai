@@ -1,17 +1,40 @@
-# cropguard_ai
+# 🌱 CropGuard AI
 
-A new Flutter project.
+CropGuard AI is a smart mobile application that helps farmers detect crop diseases using AI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📷 Capture crop images
+- 🤖 AI-based disease detection
+- 🌿 Suggest solutions for crops
+- 📊 Easy-to-use interface
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+- AI / ML (Future Integration)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 App Screenshot
+![App Screenshot](assets/screenshot.png)
+
+---
+
+## 👨‍💻 Team
+- **Team Name:** Late Night Coder  
+- **Leader:** Aryan Jaiswal  
+- **GitHub:** https://github.com/Aryan204724V
+
+---
+
+## 📌 Project Status
+🚧 Beginner Prototype (Work in Progress)
+
+---
+
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
